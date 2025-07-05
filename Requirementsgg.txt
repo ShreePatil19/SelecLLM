@@ -1,0 +1,4 @@
+python -m venv Selec_Ai
+Selec_Ai\Scripts\activate
+
+streamlit run app4.py
