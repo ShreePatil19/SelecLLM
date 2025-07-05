@@ -6,7 +6,6 @@ A secure, local-first LLM assistant built using Streamlit, LangChain, and Huggin
 - PDF-based RAG (Retrieval-Augmented Generation)
 - User login/signup authentication
 - LLM switching (Ollama, Flan-T5, Mistral, LLaMA3, etc.)
-- Typewriter UI animation like ChatGPT
 
 ## 🚀 How to Run
 
